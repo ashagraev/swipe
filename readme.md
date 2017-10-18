@@ -1,3 +1,7 @@
+### 0. Competition
+
+https://contest.yandex.ru/contest/5513/enter/
+
 ### 1. Checker example
 
 ```shell
