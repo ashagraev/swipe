@@ -1,4 +1,4 @@
-###1. Checker example
+### 1. Checker example
 
 ```shell
 python ./checker.py --target sample_targets.txt --submission sample_submission.txt
